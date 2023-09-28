@@ -48,4 +48,4 @@ usando o método fetch.
 ### Desktop:
 <img src="./src/images/api-github-desktop.gif" alt="video projeto tela desktop">
 
-Para ver o projeto pronto, [CLIQUE AQUI!](https://jessica-os.github.io/API-Github/target="_blank")
+Para ver o projeto pronto, [CLIQUE AQUI!](https://jessica-os.github.io/API-Github/")
