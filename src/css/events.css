@@ -1,0 +1,19 @@
+
+.events {
+    margin-top: 50px;
+    background-color: var(--events-background);
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .events h2 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .events li {
+    margin: 10px;
+  }
+  .events li span {
+    color: var(--purple);
+    font-weight: bold;
+  }
+  
