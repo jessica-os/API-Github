@@ -40,7 +40,7 @@ usando o método fetch.
 ## Veja como ficou:
 
 ### Mobile:
-<img src="./src/images/api-github-mobile.gif" alt="video projeto tela mobile">
+<img src="./src/images/api-github-mobile.gif" alt="video projeto tela mobile target=_blank">
 
 ### Tablet:
 <img src="./src/images/api-github-tablet.gif" alt="video projeto tela tablet">
