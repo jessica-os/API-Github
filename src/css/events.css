@@ -4,6 +4,7 @@
     background-color: var(--events-background);
     padding: 20px;
     border-radius: 20px;
+   
   }
   .events h2 {
     text-transform: uppercase;
@@ -12,8 +13,14 @@
   .events li {
     margin: 10px;
   }
-  .events li span {
+  .events li h3 {
     color: var(--purple);
     font-weight: bold;
+  }
+  .events p span{
+    font-weight: bold;
+  }
+  .events ul li{
+    display: flex;
   }
   
